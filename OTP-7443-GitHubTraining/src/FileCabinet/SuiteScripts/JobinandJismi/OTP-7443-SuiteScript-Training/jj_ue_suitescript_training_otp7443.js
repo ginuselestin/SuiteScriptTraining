@@ -15,19 +15,7 @@ define(['N/record'],
          * @since 2015.2
          */
         const beforeLoad = (scriptContext) => {
-        //     let recObj = record.create({
-        //         type: record.Type.CUSTOMER,
-        //         isDynamic: true,
-        //         defaultValues: {
-        //             'subsidiary':1
-        //         }
-        //     });
-
-        //     recObj.setValue({
-        //         fieldId: 'companyname',
-        //         value: 'Amal Biju',
-        //         ignoreFieldChange: true
-        //     });
+        
 
         //     recObj.setValue('phone',123456789);
 
@@ -37,6 +25,11 @@ define(['N/record'],
         //     });
 
         //     log.debug("record Id", recId);
+
+
+        /////////////////zdgxhxdfhzdfhbzxf
+        ////////////xdfhxdfhxfgjxfgjxgm
+        //dxfffffffffffff
             
         }
 
