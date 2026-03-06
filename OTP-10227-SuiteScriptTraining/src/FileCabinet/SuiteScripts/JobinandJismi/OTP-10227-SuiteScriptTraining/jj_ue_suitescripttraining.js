@@ -2,9 +2,9 @@
  * @NApiVersion 2.1
  * @NScriptType UserEventScript
  */
-define(['N/record'],
+define([],
     
-    (record) => {
+    () => {
         /**
          * Defines the function definition that is executed before record is loaded.
          * @param {Object} scriptContext
@@ -15,22 +15,9 @@ define(['N/record'],
          * @since 2015.2
          */
         const beforeLoad = (scriptContext) => {
-        
 
-        //     recObj.setValue('phone',123456789);
+            log.debug("Script Deployment Successful");
 
-        //    let recId = recObj.save({
-        //         enableSourcing: true,
-        //         ignoreMandatoryFields: true
-        //     });
-
-        //     log.debug("record Id", recId);
-
-
-        /////////////////zdgxhxdfhzdfhbzxf
-        ////////////xdfhxdfhxfgjxfgjxgm
-        //dxfffffffffffff
-            //Changed
         }
 
         /**
